@@ -24,12 +24,19 @@ The dashboard was developed using the following tools and technologies:
 > The dashboard is built using an E-Commerce Sales Dataset containing transactional business data, including:
 
 > Sales Amount
+
 > Profit
+
 > Quantity Sold
+
 > Customer Information
+
 > Product Categories & Sub-Categories
+
 > State-wise Sales
+
 > Payment Methods
+
 > Order Dates
 
 The dataset was cleaned, transformed, and modeled in Power BI to support accurate analysis and interactive reporting.
@@ -38,13 +45,18 @@ The dataset was cleaned, transformed, and modeled in Power BI to support accurat
 
 E-commerce businesses generate thousands of transactions, making it difficult to monitor overall business performance using raw spreadsheets.
 
-Business managers often need answers to questions such as:
+Business managers often need answers to questions such as
 
 > Which states generate the highest profit?
+
 > Which product categories contribute the most revenue?
+
 > Which customers generate the highest sales?
+
 > Which payment methods are preferred by customers?
+
 > How does profit change throughout the year?
+
 > Which products deliver the highest profitability?
 
 Without an interactive dashboard, answering these questions quickly becomes challenging.
@@ -54,11 +66,17 @@ Without an interactive dashboard, answering these questions quickly becomes chal
 The goal of this dashboard is to:
 
 > Monitor overall business performance using key KPIs.
+
 > Analyze profit across different states and product categories.
+
 > Identify top customers based on sales.
+
 > Understand customer payment preferences.
+
 > Track monthly profit trends.
+
 > Discover the most profitable product sub-categories.
+
 > Enable data-driven decision-making through interactive filters.
 
 📊 Dashboard Walkthrough
