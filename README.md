@@ -146,4 +146,4 @@ This dashboard enables businesses to:
 
 **📷 Dashboard Preview
 
-https://github.com/udaypawarofficial/ShopNest-E-Commerce-Sales-Power-Bi-Project-/blob/main/SHOPNEST%20DASHBOARD%20IMAGE.JPG
+(https://github.com/udaypawarofficial/ShopNest-E-Commerce-Sales-Power-Bi-Project-/blob/main/SHOPNEST%20DASHBOARD%20IMAGE.JPG)
