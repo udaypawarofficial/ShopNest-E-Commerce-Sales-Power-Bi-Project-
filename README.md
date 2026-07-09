@@ -145,5 +145,6 @@ This dashboard enables businesses to:
 ✔ Business Intelligence Reporting
 
 **📷 Dashboard Preview
-
-(https://github.com/udaypawarofficial/ShopNest-E-Commerce-Sales-Power-Bi-Project-/blob/main/SHOPNEST%20DASHBOARD%20IMAGE.JPG)
+![ShopNest Dashboard](images/shopnest-dashboard.png)
+![Dashboard Preview](
+https://github.com/udaypawarofficial/ShopNest-E-Commerce-Sales-Power-Bi-Project-/blob/main/SHOPNEST%20DASHBOARD%20IMAGE.PNG)
