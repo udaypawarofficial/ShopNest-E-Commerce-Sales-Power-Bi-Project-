@@ -1,4 +1,4 @@
-# ShopNest-E-Commerce-Sales-Power-Bi-Project-
+
 🛒 ShopNest E-Commerce Sales Dashboard
 
 An interactive Power BI dashboard developed to analyze e-commerce sales performance across multiple business dimensions including sales, profit, customers, product categories, states, payment methods, and monthly trends. The dashboard enables stakeholders to monitor business performance and make informed, data-driven decisions through interactive visualizations.
@@ -14,11 +14,17 @@ This project demonstrates the complete Business Intelligence workflow—from dat
 The dashboard was developed using the following tools and technologies:
 
 📊 Power BI Desktop – Dashboard development and interactive visualization.
+
 🔄 Power Query – Data cleaning, transformation, and preparation.
+
 🧠 DAX (Data Analysis Expressions) – Calculated measures, KPIs, and business metrics.
+
 🗂️ Data Modeling – Established relationships between multiple tables for efficient analysis.
+
 📈 Data Visualization – KPI Cards, Bar Charts, Column Charts, Donut Charts, and Slicers.
+
 📁 File Format – .pbix (Power BI Project) and .png (Dashboard Preview).
+
 📂 Dataset
 
 > The dashboard is built using an E-Commerce Sales Dataset containing transactional business data, including:
@@ -84,8 +90,11 @@ The goal of this dashboard is to:
 
 The dashboard provides an instant overview of the business through key performance indicators:
 > Total Sales
+
 > Total Profit
+
 > Total Quantity Sold
+
 > Average Order Value (AOV)
 
 📅 Quarter & State Filters
@@ -93,6 +102,7 @@ The dashboard provides an instant overview of the business through key performan
 Interactive slicers allow users to filter the dashboard by:
 
 > Quarter (Q1–Q4)
+
 > State
 
 making the dashboard dynamic and easy to explore.
@@ -124,21 +134,34 @@ A horizontal bar chart compares profitability across different product sub-categ
 📈 Key Business Insights
 Certain states contribute significantly more profit than others, indicating strong regional markets.
 Clothing and Electronics are among the highest-performing product categories.
+
 Cash on Delivery (COD) is the most frequently used payment method.
+
 Monthly profit trends reveal seasonal fluctuations that can support better sales planning.
+
 A small group of customers contributes a substantial portion of overall sales.
+
 Product sub-category analysis helps identify high-profit products for inventory and marketing optimization.
 
 💼 Skills Demonstrated
 > Power BI Dashboard Development
+
 > Data Cleaning & Transformation
+
 > Power Query
+
 > Data Modeling
+
 > DAX Calculations
+
 > KPI Design
+
 > Interactive Report Development
+
 > Business Intelligence
+
 > Data Visualization
+
 > Business Insight Generation
 
 🚀 Business Impact
@@ -146,20 +169,31 @@ Product sub-category analysis helps identify high-profit products for inventory 
 This dashboard enables businesses to:
 
 > Monitor overall sales performance in real time.
+
 > Identify profitable products and regions.
+
 > Understand customer purchasing behavior.
+
 > Optimize inventory and marketing strategies.
+
 > Improve decision-making through interactive data visualization.
  
 ⭐ Project Highlights
 
 ✔ Interactive Power BI Dashboard
+
 ✔ Dynamic Filters & Slicers
+
 ✔ Sales & Profit Analysis
+
 ✔ Customer Insights
+
 ✔ Product Performance Analysis
+
 ✔ Payment Mode Analysis
+
 ✔ Monthly Trend Analysis
+
 ✔ Business Intelligence Reporting
 
 **📷 Dashboard Preview
