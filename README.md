@@ -132,8 +132,6 @@ This dashboard enables businesses to:
 > Understand customer purchasing behavior.
 > Optimize inventory and marketing strategies.
 > Improve decision-making through interactive data visualization.
-
- ****📷 Dashboard Preview
  
 ⭐ Project Highlights
 
@@ -145,3 +143,7 @@ This dashboard enables businesses to:
 ✔ Payment Mode Analysis
 ✔ Monthly Trend Analysis
 ✔ Business Intelligence Reporting
+
+**📷 Dashboard Preview
+
+https://github.com/udaypawarofficial/ShopNest-E-Commerce-Sales-Power-Bi-Project-/blob/main/SHOPNEST%20DASHBOARD%20IMAGE.JPG
