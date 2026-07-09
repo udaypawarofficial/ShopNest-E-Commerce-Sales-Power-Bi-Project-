@@ -134,13 +134,9 @@ A horizontal bar chart compares profitability across different product sub-categ
 📈 Key Business Insights
 Certain states contribute significantly more profit than others, indicating strong regional markets.
 Clothing and Electronics are among the highest-performing product categories.
-
 Cash on Delivery (COD) is the most frequently used payment method.
-
 Monthly profit trends reveal seasonal fluctuations that can support better sales planning.
-
 A small group of customers contributes a substantial portion of overall sales.
-
 Product sub-category analysis helps identify high-profit products for inventory and marketing optimization.
 
 💼 Skills Demonstrated
